@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783703565410",
+    "firebase_url": "https://harfalayim-f524f-default-rtdb.firebaseio.com",
+    "project_id": "harfalayim-f524f",
+    "storage_bucket": "harfalayim-f524f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783703565410:android:f0e29148b8f80dc866dd3b",
+        "android_client_info": {
+          "package_name": "com.example.harfalayim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783703565410-qge7hc0htm9nmdshavigh9ru8al33bh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdUHQkrtzO6kEftTXEn47vpOP9igeRwoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783703565410-qge7hc0htm9nmdshavigh9ru8al33bh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
